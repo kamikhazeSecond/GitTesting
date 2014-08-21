@@ -9,6 +9,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 import android.os.Build;
 
 public class Home extends ActionBarActivity {
@@ -23,6 +24,7 @@ public class Home extends ActionBarActivity {
                     .add(R.id.container, new PlaceholderFragment())
                     .commit();
         }
+        Toast.makeText(getApplicationContext(), "Add a comment", Toast.LENGTH_SHORT).show();
     }
 
 

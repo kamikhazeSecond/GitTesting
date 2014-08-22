@@ -30,11 +30,11 @@ public class Home extends ActionBarActivity {
         Toast.makeText(getApplicationContext(), "Micheal comment", Toast.LENGTH_SHORT).show();
       //  Toast.makeText(getApplicationContext(), "John comment", Toast.LENGTH_SHORT).show();
         Toast.makeText(getApplicationContext(), "Arun comment", Toast.LENGTH_SHORT).show();
-       // Toast.makeText(getApplicationContext(), "Vikram  comment", Toast.LENGTH_SHORT).show();
+       /*// Toast.makeText(getApplicationContext(), "Vikram  comment", Toast.LENGTH_SHORT).show();
         Toast.makeText(getApplicationContext(), "Rupen comment", Toast.LENGTH_SHORT).show();
         
         Toast.makeText(getApplicationContext(), "Aman comment", Toast.LENGTH_SHORT).show();
-
+*/
          
     }
 

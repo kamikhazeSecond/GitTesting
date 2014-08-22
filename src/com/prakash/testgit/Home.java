@@ -36,6 +36,8 @@ public class Home extends ActionBarActivity {
         Toast.makeText(getApplicationContext(), "Aman comment", Toast.LENGTH_SHORT).show();
 */
          
+        Toast.makeText(getApplicationContext(), "Boman comment", Toast.LENGTH_SHORT).show();
+
     }
 
 

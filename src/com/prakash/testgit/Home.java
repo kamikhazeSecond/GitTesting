@@ -24,7 +24,7 @@ public class Home extends ActionBarActivity {
                     .add(R.id.container, new PlaceholderFragment())
                     .commit();
         }
-        Toast.makeText(getApplicationContext(), "Add a 1st comment", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "Steve comment", Toast.LENGTH_SHORT).show();
         Toast.makeText(getApplicationContext(), "Prakash  comment", Toast.LENGTH_SHORT).show();
         Toast.makeText(getApplicationContext(), "Micheal comment", Toast.LENGTH_SHORT).show();
         Toast.makeText(getApplicationContext(), "John comment", Toast.LENGTH_SHORT).show();
